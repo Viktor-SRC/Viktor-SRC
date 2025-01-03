@@ -1,30 +1,46 @@
-# 👋 Hey there, I'm Viktor SRC aka Cyberdog!
+🚀 Hey there, I'm Viktor SRC aka Cyberdog! 🐾
 
-## 🚀 About Me
-I'm a budding software developer currently juggling an intense 18-month sprint at Holberton School's Foundations of Computer Science and Augmented Reality & Virtual Reality programs, which kicked off in February 2024. Parallelly, I'm navigating through the first semester of a software development degree at Onmex University, set to unfold over 5 semesters since January 2024.
+👨‍💻 About Me
 
-🎮 **Passionate Gamer** | 💻 **Aspiring Software Engineer** | 🌐 **Tech Enthusiast**
+I'm a dedicated software engineering student pursuing a Bachelor of Science in Computer Science at Southern New Hampshire University (SNHU) while enhancing my hands-on skills as a Software Engineering Apprentice at Holberton School. With a passion for building impactful and scalable tech solutions, I'm bridging theoretical knowledge with real-world expertise.
 
-## 🎯 Goals
-My mission is simple yet ambitious: excel in both my academic endeavors and morph into a software engineer who's not just competent but irresistibly employable. With a keen interest in technology and an unwavering love for video games, my ultimate goal is to dive into software development, where I can blend passion with profession.
+I'm also a passionate powerlifter, a lifelong gamer, and a proud dog parent who believes in balancing work, hobbies, and personal growth.
 
-## 💡 Projects
-Here's a sneak peek at what I've been up to:
+🎯 Goals
 
-- **More to come...** - As I continue my journey, watch this space for more innovative and exciting projects!
+My mission is simple yet ambitious:
+Excel in my academic journey and evolve into a versatile software engineer who is not only competent but irresistibly employable. With a strong interest in emerging technologies like blockchain, AI, and cloud computing, I aim to make meaningful contributions to the tech world while blending my passions for coding, gaming, and innovation.
 
-## 🛠 Skills
-- **Languages:** Python, JavaScript (and eagerly learning more!)
-- **Tools & Technologies:** Git, GitHub, Unity (AR/VR projects), and whatever tools my quests require.
+📂 Projects
 
-## 📫 Get In Touch
-- LinkedIn: www.linkedin.com/in/viktor-san-roman
-- Email: vk.src9@gmail.com
-- Discord: viktor.9 - Let's connect and talk tech, gaming, or anything interesting!
+Here's a sneak peek at what I’ve been up to:
 
-## 🕹 Fun Fact
-When I'm not coding or buried in textbooks, you'll find me exploring new worlds in BloodBorne, strategizing for the next big win, or dissecting the latest tech trends that resonate with my quest to innovate and inspire.
+Coming Soon: Stay tuned for innovative projects as I progress through my academic and professional journey.
 
----
+🛠️ Skills
 
-🌟 _"In the realm of code, every problem is a puzzle waiting to be solved, and every challenge is an opportunity to grow."_ 🌟
+Languages: Python, JavaScript, and always eager to learn more.
+Tools & Technologies: Git, GitHub, Docker, and other tools that aid in my quest for impactful development.
+Specializations: Bridging theoretical foundations with practical software development.
+
+📬 Get In Touch
+
+LinkedIn: linkedin.com/in/viktor-src/
+
+Email: vk.src9@gmail.com
+
+Discord: cyberdog009 - Let's connect and talk tech, gaming, or anything interesting!
+
+🐾 Fun Fact
+
+When I'm not coding or studying, you'll find me:
+
+Crushing new personal records in powerlifting.
+
+Exploring immersive worlds in Soulslike games, ranking in Valorant, or battling it out in Tekken 8.
+
+Spending time with my dogs, who never fail to energize and inspire me.
+
+💡 Quote
+
+"In the realm of code, every problem is a puzzle waiting to be solved, and every challenge is an opportunity to grow."
