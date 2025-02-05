@@ -2,7 +2,7 @@
 
 👨‍💻 About Me
 
-I'm a dedicated software engineering student pursuing a Bachelor of Science in Computer Science at Southern New Hampshire University (SNHU) while enhancing my hands-on skills as a Software Engineering Apprentice at Holberton School. With a passion for building impactful and scalable tech solutions, I'm bridging theoretical knowledge with real-world expertise.
+I'm a dedicated software engineering student pursuing a Bachelor of Science in Computer Science at Southern New Hampshire University (SNHU) while enhancing my hands-on skills as a Software Engineering Scholar at Holberton School. With a passion for building impactful and scalable tech solutions, I'm bridging theoretical knowledge with real-world expertise.
 
 I'm also a passionate powerlifter, a lifelong gamer, and a proud dog parent who believes in balancing work, hobbies, and personal growth.
 
